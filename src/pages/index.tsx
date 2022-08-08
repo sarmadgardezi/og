@@ -20,7 +20,7 @@ export default function HomePage() {
               </CustomLink>
             </p>
             <div className='flex flex-wrap gap-2 mt-4 text-sm text-gray-500'>
-              <ButtonLink href='https://github.com/theodorusclarence/og'>
+              <ButtonLink href='https://github.com/sarmadgardezi/og'>
                 See the repository
               </ButtonLink>
               <ButtonLink variant='light' href='/builder'>
@@ -30,8 +30,8 @@ export default function HomePage() {
 
             <footer className='absolute text-gray-800 bottom-2'>
               © {new Date().getFullYear()} By{' '}
-              <CustomLink href='https://theodorusclarence.com?ref=og'>
-                Theodorus Clarence
+              <CustomLink href='https://sarmadgardezi.com?ref=og'>
+                Sarmad Gardezi
               </CustomLink>
             </footer>
           </div>
